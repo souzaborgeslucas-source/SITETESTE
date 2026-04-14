@@ -13,5 +13,25 @@ h2{color:rgb(206, 26, 41)
 
 }
 ul{color:rgb(245, 194, 7)
+}
 
+li{display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+
+}
+
+li img{
+    width: 30px;
+    height: 30px;
+
+}
+li{
+    transition: 0.3s;
+}
+li:hover{
+    color:rgb(240, 217, 12));
+    front-size: 20px; 
+    
 }
