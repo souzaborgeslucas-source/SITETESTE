@@ -31,7 +31,8 @@ li{
     transition: 0.3s;
 }
 li:hover{
-    color:rgb(240, 217, 12));
-    front-size: 20px; 
+    color:rgb(12, 240, 137));
+    font-size: 20px; 
+  
     
 }
